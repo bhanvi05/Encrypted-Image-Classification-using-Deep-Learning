@@ -1,1 +1,5 @@
-
+esigned and trained deep learning models (AlexNet and MobileNet variants) on CIFAR-10 datasets encrypted
+with lightweight ciphers such as SPECK and PRESENT.
+• Processed both grayscale and RGB images to evaluate the impact of encryption on model performance.
+• Analyzed classification accuracy across different encryption settings to assess robustness of neural networks.
+• Extended the closed-set pipeline to open-set classification using OpenMax for unknown class detection.
